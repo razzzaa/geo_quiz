@@ -1,0 +1,428 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital of Canada?",
+      "options": ["Toronto", "Montreal", "Vancouver", "Ottawa"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "id": 2,
+      "question": "Which river runs through Egypt?",
+      "options": ["Amazon", "Nile", "Mississippi", "Yangtze"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "id": 3,
+      "question": "Which city is known as the 'City of Love'?",
+      "options": ["Venice", "Paris", "Rome", "Florence"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "id": 4,
+      "question": "What is the smallest continent in the world?",
+      "options": ["Europe", "South America", "Australia", "Antarctica"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "id": 5,
+      "question": "What is the tallest mountain in the world?",
+      "options": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "id": 6,
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "Japan", "India", "South Korea"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "id": 7,
+      "question": "Which desert is the largest in the world?",
+      "options": ["Sahara", "Arabian", "Gobi", "Kalahari"],
+      "correctOption": 0,
+      "points": 40
+    },
+    {
+      "id": 8,
+      "question": "What is the longest river in Europe?",
+      "options": ["Volga", "Danube", "Rhine", "Thames"],
+      "correctOption": 0,
+      "points": 40
+    },
+    {
+      "id": 9,
+      "question": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "correctOption": 2,
+      "points": 50
+    },
+    {
+      "id": 10,
+      "question": "Which country is the largest by land area?",
+      "options": ["Russia", "Canada", "China", "United States"],
+      "correctOption": 0,
+      "points": 50
+    },
+    {
+      "id": 11,
+      "question": "What is the highest waterfall in the world?",
+      "options": [
+        "Niagara Falls",
+        "Victoria Falls",
+        "Iguazu Falls",
+        "Angel Falls"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "id": 12,
+      "question": "Which is the largest country by area in Africa?",
+      "options": ["Nigeria", "Algeria", "South Africa", "Ethiopia"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "id": 13,
+      "question": "What is the smallest ocean in the world?",
+      "options": ["Arctic", "Southern", "Indian", "Atlantic"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "id": 14,
+      "question": "Which mountain range separates Europe from Asia?",
+      "options": ["Rocky Mountains", "Andes", "Himalayas", "Ural Mountains"],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "id": 15,
+      "question": "What is the driest place on Earth?",
+      "options": [
+        "Sahara Desert",
+        "Atacama Desert",
+        "Gobi Desert",
+        "Antarctica"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "id": 16,
+      "question": "Which country has the most pyramids?",
+      "options": ["Sudan", "Mexico", "Egypt", "Peru"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "id": 17,
+      "question": "What is the highest mountain in Africa?",
+      "options": [
+        "Mount Kilimanjaro",
+        "Mount Kenya",
+        "Mount Meru",
+        "Mount Elgon"
+      ],
+      "correctOption": 0,
+      "points": 40
+    },
+    {
+      "id": 18,
+      "question": "Which strait separates Asia from North America?",
+      "options": [
+        "Strait of Malacca",
+        "Strait of Gibraltar",
+        "Bering Strait",
+        "Strait of Hormuz"
+      ],
+      "correctOption": 2,
+      "points": 40
+    },
+    {
+      "id": 19,
+      "question": "What is the longest river in South America?",
+      "options": ["Amazon", "Orinoco", "Paraná", "Magdalena"],
+      "correctOption": 0,
+      "points": 50
+    },
+    {
+      "id": 20,
+      "question": "Which country has the most islands?",
+      "options": ["Sweden", "Indonesia", "Philippines", "Japan"],
+      "correctOption": 1,
+      "points": 50
+    },
+    {
+      "id": 21,
+      "question": "What is the capital of Brazil?",
+      "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "id": 22,
+      "question": "Which ocean is the largest by area?",
+      "options": ["Pacific", "Atlantic", "Indian", "Arctic"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "id": 23,
+      "question": "Which country is known as the Emerald Isle?",
+      "options": ["Scotland", "Ireland", "Wales", "England"],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "id": 24,
+      "question": "Which city is famous for its canals, gondolas, and historic architecture?",
+      "options": ["Venice", "Barcelona", "Athens", "Prague"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "id": 25,
+      "question": "Which desert is often called the 'Roof of the World'?",
+      "options": ["Sahara", "Gobi", "Atacama", "Taklamakan"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "id": 26,
+      "question": "Which island nation is known as the 'Pearl of the Indian Ocean'?",
+      "options": ["Maldives", "Sri Lanka", "Fiji", "Mauritius"],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "id": 27,
+      "question": "What is the highest mountain in South America?",
+      "options": [
+        "Mount Aconcagua",
+        "Mount Chimborazo",
+        "Mount Everest",
+        "Mount Kilimanjaro"
+      ],
+      "correctOption": 0,
+      "points": 40
+    },
+    {
+      "id": 28,
+      "question": "What is the largest lake in Africa?",
+      "options": [
+        "Lake Tanganyika",
+        "Lake Malawi",
+        "Lake Victoria",
+        "Lake Baikal"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "id": 29,
+      "question": "Which mountain range forms the border between Europe and Asia?",
+      "options": ["Rocky Mountains", "Andes", "Himalayas", "Ural Mountains"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "id": 30,
+      "question": "Which strait separates the Mediterranean Sea from the Atlantic Ocean?",
+      "options": [
+        "Strait of Gibraltar",
+        "Bering Strait",
+        "Strait of Hormuz",
+        "Bosphorus Strait"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "id": 31,
+      "question": "What is the largest island in the world?",
+      "options": ["Greenland", "New Guinea", "Borneo", "Madagascar"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "id": 32,
+      "question": "Which country is known as 'The Land of the Midnight Sun'?",
+      "options": ["Norway", "Iceland", "Sweden", "Finland"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "id": 33,
+      "question": "What is the world's second-largest country by land area?",
+      "options": ["China", "United States", "Russia", "Brazil"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "id": 34,
+      "question": "Which river is the longest in China?",
+      "options": ["Yangtze", "Yellow", "Pearl", "Heilong"],
+      "correctOption": 0,
+      "points": 40
+    },
+    {
+      "id": 35,
+      "question": "What is the oldest city in the world?",
+      "options": ["Athens", "Jerusalem", "Rome", "Damascus"],
+      "correctOption": 3,
+      "points": 40
+    },
+    {
+      "id": 36,
+      "question": "Which is the largest desert in the United States?",
+      "options": [
+        "Mojave Desert",
+        "Great Basin Desert",
+        "Sonoran Desert",
+        "Chihuahuan Desert"
+      ],
+      "correctOption": 1,
+      "points": 50
+    },
+    {
+      "id": 37,
+      "question": "What is the southernmost point of Africa called?",
+      "options": [
+        "Cape Agulhas",
+        "Cape Horn",
+        "Cape of Good Hope",
+        "Pointe des Almadies"
+      ],
+      "correctOption": 0,
+      "points": 50
+    },
+    {
+      "id": 38,
+      "question": "What is the official language of Brazil?",
+      "options": ["Spanish", "Portuguese", "French", "English"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "id": 39,
+      "question": "What is the largest active volcano in the world?",
+      "options": ["Mount Fuji", "Mount Etna", "Mauna Loa", "Mount Vesuvius"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "id": 40,
+      "question": "Which country is known as the 'Land of Smiles'?",
+      "options": ["Thailand", "Vietnam", "Cambodia", "Laos"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "id": 41,
+      "question": "What is the world's deepest lake?",
+      "options": ["Lake Baikal", "Caspian Sea", "Lake Crater", "Dead Sea"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "id": 42,
+      "question": "Which city is home to the Colosseum?",
+      "options": ["Rome", "Athens", "Florence", "Naples"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "id": 43,
+      "question": "What is the Great Barrier Reef located near?",
+      "options": ["Australia", "New Zealand", "Fiji", "Indonesia"],
+      "correctOption": 0,
+      "points": 40
+    },
+    {
+      "id": 44,
+      "question": "Which country has the most pyramids?",
+      "options": ["Egypt", "Sudan", "Mexico", "Peru"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "id": 45,
+      "question": "What is the driest desert in the world?",
+      "options": [
+        "Atacama Desert",
+        "Sahara Desert",
+        "Gobi Desert",
+        "Kalahari Desert"
+      ],
+      "correctOption": 0,
+      "points": 40
+    },
+    {
+      "id": 46,
+      "question": "Which sea separates Europe from Africa?",
+      "options": ["Mediterranean Sea", "Red Sea", "Black Sea", "Aegean Sea"],
+      "correctOption": 0,
+      "points": 50
+    },
+    {
+      "id": 47,
+      "question": "What is the tallest building in the world?",
+      "options": [
+        "Burj Khalifa",
+        "Shanghai Tower",
+        "Abrj Al-Bait Clock Tower",
+        "One World Trade Center"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "id": 48,
+      "question": "Which country is famous for its flamenco dancing?",
+      "options": ["Spain", "Portugal", "Italy", "Greece"],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "id": 49,
+      "question": "What is the largest freshwater lake by volume?",
+      "options": [
+        "Lake Superior",
+        "Lake Victoria",
+        "Lake Huron",
+        "Lake Michigan"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "id": 50,
+      "question": "Which is the smallest country in the world?",
+      "options": ["Vatican City", "Monaco", "Nauru", "Tuvalu"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "id": 51,
+      "question": "What is the official currency of the European Union?",
+      "options": ["Euro", "British Pound", "Swiss Franc", "US Dollar"],
+      "correctOption": 0,
+      "points": 40
+    },
+    {
+      "id": 52,
+      "question": "Which country is known as the 'Land of a Thousand Hills'?",
+      "options": ["Rwanda", "Burundi", "Uganda", "Kenya"],
+      "correctOption": 0,
+      "points": 40
+    }
+  ]
+}
