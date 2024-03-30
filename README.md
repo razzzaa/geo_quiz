@@ -1,0 +1,1 @@
+Choose from one of the two files. the one built with context api much more cleaner and organized, but both work the same. you can compare the two codes to see the advantage of using Context API method.
